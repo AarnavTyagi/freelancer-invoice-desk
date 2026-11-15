@@ -1,0 +1,9 @@
+target/
+exports/
+*.class
+.idea/
+.vscode/
+*.iml
+
+# Local database credentials, never commit
+src/main/resources/db.properties
